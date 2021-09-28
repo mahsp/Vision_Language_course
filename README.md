@@ -1,0 +1,1 @@
+This repository includes the three assignments I worked on for the "Vision & Language" course I took in Spring 2020. All algorithms were written in Python.
